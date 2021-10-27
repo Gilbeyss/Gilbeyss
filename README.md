@@ -9,9 +9,9 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melementxd&theme=dark&show_icons=true&locale=en&layout=compact" alt="melementxd" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gecenin.karanlii&theme=dark&show_icons=true&locale=en&layout=compact" alt="Gilbey`S" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gilbey`s=dark&show_icons=true&locale=en" alt="Gilbey`S"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gecenin.karanlii`s=dark&show_icons=true&locale=en" alt="Gilbey`S"  ></p>
 
 Turkis.
 
