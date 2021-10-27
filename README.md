@@ -17,7 +17,7 @@ Turkis.
 
 🎓 Yapıyoz İşte Bişeyler Buraya Bakıp Napcan (:
 ____________________________________________________________________
-🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Falan Filan
+🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Discord Bot Falan Filan
 ____________________________________________________________________
 ✍️ Boş zamanlarımda Pardon Boş Zamanım Yok (:
 ____________________________________________________________________
@@ -25,7 +25,7 @@ English.
 ____________________________________________________________________
 🎓 i do here's something you will see and do Joke joke (:
 ____________________________________________________________________
-🌱 Artificial Intelligence, Homomorphic Encryption, and Computer Vision Blah Blah
+🌱 Artificial Intelligence, Homomorphic Encryption, and Computer Vision Discord Bot Blah Blah
 ____________________________________________________________________
 ✍️ In my spare time, Sorry I Have No Free Time (:
 ### 🛠 &nbsp;Software Languages
