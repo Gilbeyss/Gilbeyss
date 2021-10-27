@@ -15,17 +15,15 @@
 
 Turkis.
 
-🎓 Merhaba Ben 19 Yaşındayım Geliştiriciyim.\
-🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Görme hakkında daha fazla bilgi edinme yolundayım.\
-✍️ Boş zamanlarımda Muzik Dinliyorum, Film İzliyorum, Spor Yapiyorum, Motorla Sürüyorum, Gibi Seyler Yapiyorum Ve hobilerim arasında Kitap Okuyorum.
+🎓 Yapıyoz İşte Bişeyler Buraya Bakıp Napcan (:
+🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Falan Filan
+✍️ Boş zamanlarımda Pardon Boş Zamanım Yok :D
 
 İngiliz.
 
 🎓 Hello I'm 19 Years Old Developer.\
-🌱 I'm on my way to learn more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ In my spare time, I listen to music, watch movies, do sports, do things like, and read books among my hobbies.
-
-
+🌱 Artificial Intelligence, Homomorphic Encryption, and Computer Vision Blah Blah
+✍️ In my spare time, Sorry I Have No Free Time :D
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
