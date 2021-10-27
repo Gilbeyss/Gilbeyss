@@ -16,16 +16,17 @@
 Turkis.
 
 🎓 Yapıyoz İşte Bişeyler Buraya Bakıp Napcan (:
-
+------------------------------------------
 🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Falan Filan
-
+------------------------------------------
 ✍️ Boş zamanlarımda Pardon Boş Zamanım Yok :D
-
+------------------------------------------
 English.
-
+------------------------------------------
 🎓 Hello I'm 19 Years Old Developer.\
-
+------------------------------------------
 🌱 Artificial Intelligence, Homomorphic Encryption, and Computer Vision Blah Blah
+------------------------------------------
 ✍️ In my spare time, Sorry I Have No Free Time :D
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
