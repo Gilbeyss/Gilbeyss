@@ -21,12 +21,11 @@ Turkis.
 
 ✍️ Boş zamanlarımda Pardon Boş Zamanım Yok :D
 
-İngiliz.
+English.
 
 🎓 Hello I'm 19 Years Old Developer.\
 
 🌱 Artificial Intelligence, Homomorphic Encryption, and Computer Vision Blah Blah
-
 ✍️ In my spare time, Sorry I Have No Free Time :D
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
