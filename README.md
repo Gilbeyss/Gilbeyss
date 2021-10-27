@@ -19,15 +19,15 @@ Turkis.
 ____________________________________________________________________
 🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Falan Filan
 ____________________________________________________________________
-✍️ Boş zamanlarımda Pardon Boş Zamanım Yok :D
+✍️ Boş zamanlarımda Pardon Boş Zamanım Yok (:
 ____________________________________________________________________
 English.
 ____________________________________________________________________
-🎓 i do here's something you will see and do Joke joke :D
+🎓 i do here's something you will see and do Joke joke (:
 ____________________________________________________________________
 🌱 Artificial Intelligence, Homomorphic Encryption, and Computer Vision Blah Blah
 ____________________________________________________________________
-✍️ In my spare time, Sorry I Have No Free Time :D
+✍️ In my spare time, Sorry I Have No Free Time (:
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
