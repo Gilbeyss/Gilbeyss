@@ -4,24 +4,24 @@
 ### A young software lover in Turkey.
 
 ![version :17.08.2015](https://img.shields.io/badge/version-17.08.2015-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Melementxd&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=Gilbey`S&color=red)&nbsp;
 [![GitHub melementxd](https://img.shields.io/github/followers/melementxd?label=follow&style=social)](https://github.com/melementxd)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=melementxd&theme=dark&show_icons=true&locale=en&layout=compact" alt="melementxd" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=melementxd&theme=dark&show_icons=true&locale=en" alt="Melement"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gilbey`s=dark&show_icons=true&locale=en" alt="Gilbey`S"  ></p>
 
 Turkis.
 
-🎓 Merhaba Ben 19 Yaşındayım Geliştiriciyim.\
+🎓 Merhaba Ben 20 Yaşındayım Geliştiriciyim.\
 🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Görme hakkında daha fazla bilgi edinme yolundayım.\
 ✍️ Boş zamanlarımda Muzik Dinliyorum, Film İzliyorum, Spor Yapiyorum, Motorla Sürüyorum, Gibi Seyler Yapiyorum Ve hobilerim arasında Kitap Okuyorum.
 
 İngiliz.
 
-🎓 Hello I'm 19 Years Old Developer.\
+🎓 Hello I'm 20 Years Old Developer.\
 🌱 I'm on my way to learn more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ In my spare time, I listen to music, watch movies, do sports, do things like, and read books among my hobbies.
 
@@ -41,5 +41,5 @@ Turkis.
 
 
 
-<a href="https://discord.com/users/600389533929832484"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://www.instagram.com/ahmetchiii/"><img src="https://img.shields.io/badge/@ahmetchii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://discord.com/users/702164601697206384"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://www.instagram.com/gecenin.karanlii/"><img src="https://img.shields.io/badge/@gecenin.karanlii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
