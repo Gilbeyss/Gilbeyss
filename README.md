@@ -12,7 +12,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=Melementxd&color=red)&nbsp; 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<
+
 
 
 
