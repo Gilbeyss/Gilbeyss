@@ -12,7 +12,8 @@
   <img src="https://top.gg/api/widget/741415179379671040.svg">
 </a>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=midnightpurple&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" /></p>
+
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en" alt="geceninkaranlii"  ></p>
 
