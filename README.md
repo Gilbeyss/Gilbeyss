@@ -11,6 +11,7 @@
 ![version :17.08.2015](https://img.shields.io/badge/version-17.08.2015-informational) &nbsp; 
 ![profile count](https://komarev.com/ghpvc/?username=Melementxd&color=red)&nbsp; 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+<a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" /></p>
 
@@ -44,8 +45,3 @@ ____________________________________________________________________
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
-
-<a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
