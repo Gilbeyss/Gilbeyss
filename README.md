@@ -4,7 +4,7 @@
 ### A young software lover in Turkey.
 
 ![version :17.08.2015](https://img.shields.io/badge/version-17.08.2015-informational) &nbsp;
-![![Discord Presence](httpslanyard-profile-readme.vercel.appapi465236725782937622hideDiscrim=true)](httpsdiscord.comusers465236725782937622)
+[![Discord Presence](https://lanyard.cnrad.dev/api/465236725782937622)](https://discord.com/users/465236725782937622)
 ![profile count](https://komarev.com/ghpvc/?username=Melementxd&color=red)&nbsp;
 [![GitHub melementxd](https://img.shields.io/github/followers/geceninkaranlii=follow&style=social)](https://github.com/geceninkaranlii)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
