@@ -15,8 +15,6 @@
 
 <a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en" alt="geceninkaranlii"  ></p>
-
 Turkis.
 
 🎓 Yapıyoz İşte Bişeyler Buraya Bakıp Napcan (:
