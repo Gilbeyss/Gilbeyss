@@ -15,6 +15,10 @@
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=dark&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" /></p>
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=geceninkaranlii&theme=dark&show_icons=true&locale=en" alt="geceninkaranlii"  ></p>
+h3 align=left🍒 GitHub Statsh3
+p align=left
+   img src=httpsgithub-readme-stats.vercel.appapiusername=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true width=%150 height=150px alt=stats 
+   img src=httpsgithub-readme-stats.vercel.appapitop-langsusername=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=truewidth=%100 height=150px 
 
 Turkis.
 
