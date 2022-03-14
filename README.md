@@ -13,7 +13,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" /></p>
+![geceninkaranlii stats](https://github-readme-stats.vercel.app/api?username=geceninkaranlii&show_icons=true&bg_color=353535&text_color=ABABAB&title_color=BC25E9&icon_color=BC25E9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geceninkaranlii&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)](https://github.com/geceninkaranlii)
 
 
 
