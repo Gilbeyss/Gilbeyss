@@ -13,7 +13,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <
-p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" />
+
 
 
 Turkis.
