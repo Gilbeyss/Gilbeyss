@@ -48,5 +48,5 @@ ____________________________________________________________________
 
 
 
-<a href="https://discord.com/users/465236725782937622"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+
 <a href="https://www.instagram.com/emir.goztepee/"><img src="https://img.shields.io/badge/@Gilbey`S-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
