@@ -7,10 +7,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=Melementxd&color=red)&nbsp;
 [![GitHub melementxd](https://img.shields.io/github/followers/geceninkaranlii=follow&style=social)](https://github.com/geceninkaranlii)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-<a href="https://top.gg/bot/741415179379671040">
+[![Discord Presence](https://lanyard.cnrad.dev/api/465236725782937622)](https://discord.com/users/465236725782937622) <a href="https://top.gg/bot/741415179379671040">
   <img src="https://top.gg/api/widget/741415179379671040.svg">
-</a> [![Discord Presence](https://lanyard.cnrad.dev/api/465236725782937622)](https://discord.com/users/465236725782937622)
-
+</a> 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geceninkaranlii&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="geceninkaranlii" /></p>
 
 
